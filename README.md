@@ -1,4 +1,4 @@
 test-repo
 =========
 
-test repository/folder
+test repository
